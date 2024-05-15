@@ -1,1 +1,155 @@
-Breastfeeding guide
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Breastfeeding Guidebook for New Moms</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            color: #333;
+        }
+        .container {
+            width: 80%;
+            margin: 0 auto;
+            overflow: hidden;
+        }
+        header {
+            background: #50b3a2;
+            color: #fff;
+            padding-top: 30px;
+            min-height: 70px;
+            border-bottom: #e8491d 3px solid;
+        }
+        header a {
+            color: #fff;
+            text-decoration: none;
+            text-transform: uppercase;
+            font-size: 16px;
+        }
+        header ul {
+            padding: 0;
+            list-style: none;
+            text-align: center;
+        }
+        header ul li {
+            display: inline;
+            padding: 0 20px;
+        }
+        .hero {
+            background: #e8491d;
+            color: #fff;
+            padding: 100px 0;
+            text-align: center;
+        }
+        .hero h1 {
+            margin: 0;
+            font-size: 50px;
+        }
+        section {
+            padding: 20px 0;
+        }
+        .content img {
+            max-width: 100%;
+            height: auto;
+        }
+        footer {
+            background: #333;
+            color: #fff;
+            text-align: center;
+            padding: 20px 0;
+            position: relative;
+            bottom: 0;
+            width: 100%;
+        }
+        h2, h3 {
+            color: #50b3a2;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>Breastfeeding Guidebook</h1>
+            <ul>
+                <li><a href="#home">Home</a></li>
+                <li><a href="#guide">Breastfeeding Guide</a></li>
+                <li><a href="#faqs">FAQs</a></li>
+                <li><a href="#resources">Resources</a></li>
+            </ul>
+        </div>
+    </header>
+
+    <div class="hero" id="home">
+        <div class="container">
+            <h1>Welcome to Your Breastfeeding Journey</h1>
+            <p>Comprehensive guide for new moms</p>
+            <a href="#guide" style="color: #fff; text-decoration: underline;">Start Learning</a>
+        </div>
+    </div>
+
+    <section class="content" id="guide">
+        <div class="container">
+            <h2>Breastfeeding Guide</h2>
+            <h3>Introduction</h3>
+            <p>Breastfeeding is a natural and fulfilling way to feed your baby. It offers numerous health benefits for both you and your little one. This guide aims to empower you with the knowledge and confidence to make your breastfeeding journey successful and enjoyable.</p>
+            
+            <h3>Advantages of Breastfeeding</h3>
+            <p>Breastfeeding provides optimal nutrition tailored specifically for your baby, rich in essential vitamins, minerals, and antibodies. For moms, it promotes faster postpartum recovery, reduces the risk of certain cancers, and fosters a deep emotional bond with your baby. Moreover, breastfeeding is economical and environmentally friendly.</p>
+            
+            <h3>Getting Started</h3>
+            <p>Preparation is key to a smooth breastfeeding experience. Attending prenatal classes and consulting with lactation experts can be immensely helpful. After delivery, ensure that your baby latches on correctly, which is crucial for a comfortable and effective feeding session. Familiarize yourself with different breastfeeding positions to find what works best for you and your baby.</p>
+            
+            <h3>Typical Challenges and Solutions</h3>
+            <p>Breastfeeding can come with challenges, but knowing how to tackle them makes a big difference. Common issues include sore nipples, engorgement, and mastitis. Keeping your nipples dry, using warm compresses, and ensuring proper latch can alleviate these problems. If issues persist, seek advice from a healthcare provider.</p>
+            
+            <h3>Breastfeeding Tips</h3>
+            <p>Create a feeding schedule that works for you and your baby. Stay hydrated and maintain a nutritious diet to support milk production. Breastfeeding in public can be daunting, but practice and confidence make it easier. If you’re returning to work, consider expressing milk and using a breast pump to continue breastfeeding.</p>
+        </div>
+    </section>
+
+    <section class="content" id="faqs">
+        <div class="container">
+            <h2>Frequently Asked Questions</h2>
+            
+            <h3>What are the benefits of breastfeeding for my baby?</h3>
+            <p>Breastfeeding provides ideal nutrition for infants and boosts their immune system, protecting them from various illnesses. It also supports healthy growth and development.</p>
+            
+            <h3>How often should I breastfeed my newborn?</h3>
+            <p>Newborns typically need to be fed every 2-3 hours. Watch for hunger cues such as rooting, sucking on hands, and fussiness.</p>
+            
+            <h3>How can I tell if my baby is getting enough milk?</h3>
+            <p>Regular wet diapers, steady weight gain, and contentment after feeding are good indicators that your baby is getting enough milk.</p>
+            
+            <h3>What should I do if breastfeeding is painful?</h3>
+            <p>Pain during breastfeeding is often due to improper latch. Ensure your baby’s mouth covers a large portion of the areola. Consult a lactation expert if the pain persists.</p>
+            
+            <h3>Can I breastfeed if I’m taking medication?</h3>
+            <p>Many medications are safe to take while breastfeeding, but always consult your healthcare provider to ensure your medication is safe for your baby.</p>
+            
+            <h3>How can I increase my milk supply?</h3>
+            <p>Frequent breastfeeding, staying hydrated, and maintaining a balanced diet can help increase milk supply. You can also try pumping between feedings.</p>
+            
+            <h3>Is it normal for my baby to breastfeed often?</h3>
+            <p>Yes, frequent breastfeeding is normal, especially during growth spurts. It helps stimulate your milk production and meet your baby’s growing needs.</p>
+        </div>
+    </section>
+
+    <section class="content" id="resources">
+        <div class="container">
+            <h2>Resources</h2>
+            <p>Explore our curated list of articles, videos, and external resources to further support your breastfeeding journey. Connect with lactation consultants and local support groups for personalized assistance.</p>
+        </div>
+    </section>
+
+    <footer>
+        <div class="container">
+            <p>&copy; 2024 Breastfeeding Guidebook. All rights reserved.</p>
+            <p>Quick links to important sections | Social media icons | Company information and disclaimer</p>
+        </div>
+    </footer>
+</body>
+</html>
